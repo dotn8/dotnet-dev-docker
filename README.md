@@ -1,2 +1,3 @@
-# msbuild-docker
-Dockerized .NET build tools
+# dotnet-dev-docker
+
+This repository contains multiple dockerized tools for .NET developers.
